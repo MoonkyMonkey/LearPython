@@ -5,7 +5,7 @@
 		}
 	],
 	"settings": {
-		"editor.fontSize": 20,
+		"editor.fontSize": 22,
 		"python.languageServer": "Pylance",
 		"editor.autoClosingBrackets": "always",
 		"editor.autoIndent": "advanced",
